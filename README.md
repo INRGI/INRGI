@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/ruslan-omelchenko-" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://ruslan.omelchenko.fs@gmail.com" target="_blank">
+  <a href="mailto:ruslan.omelchenko.fs@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://t.me/INickJackI" target="_blank">
