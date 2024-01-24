@@ -1,5 +1,11 @@
+<div>
+  
+  <div>
 
-<div id="header" align="center">
+  </div>
+
+  <div>
+    <div id="header" align="center">
   <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="320"/>
 </div>
 
@@ -8,6 +14,9 @@
   <a href="mailto:ruslan.omelchenko.fs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
   <a href="https://t.me/INickJackI" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
 </div>
+  </div>
+</div>
+
 
 <!--
 **INRGI/INRGI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
