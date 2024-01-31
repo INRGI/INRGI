@@ -1,3 +1,4 @@
+
 <div style="display: flex; justify-content: space-between;">
   <div>
     <p>
@@ -26,6 +27,7 @@
   </div>
 </div>
 
+---
 
 <!--
 **INRGI/INRGI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
