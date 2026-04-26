@@ -21,7 +21,7 @@
 role: Full-Stack Developer
 focus: Backend-heavy microservice architectures
 stack: NestJS • TypeScript • PostgreSQL • React
-interests: System design, distributed processing, DX tooling
+interests: System design, distributed processing
 ```
 
 <br/>
@@ -67,8 +67,6 @@ interests: System design, distributed processing, DX tooling
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GKE-4285F4?style=flat-square&logo=kubernetes&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -78,7 +76,7 @@ interests: System design, distributed processing, DX tooling
 ## 🔭 What I'm Working On
 
 - 🏗️ Scalable **NestJS microservices** with Fastify & TypeORM
-- ⚡ Distributed task processing — BullMQ Pro, RabbitMQ, PubSub
+- ⚡ Distributed task processing — BullMQ Pro, RabbitMQ
 - 🔗 Third-party integrations — Google Sheets, Monday.com, GCP
 
 <br/>
